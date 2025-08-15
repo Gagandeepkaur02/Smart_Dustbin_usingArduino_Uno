@@ -40,13 +40,6 @@ Built with **Arduino Uno**, **HC-SR04 Ultrasonic Sensor**, and **SG90 Servo Moto
 
 ---
 
-## 📂 Circuit Diagram
-(Add your Fritzing image or circuit diagram here)
-
----
-
-## 💻 Arduino Code
-The Arduino sketch is included in this repository under `smart_dustbin.ino`.
 
 **Main Logic:**
 1. Read distance from ultrasonic sensor
